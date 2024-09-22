@@ -5,7 +5,7 @@
 ## 🚀 About Me
 I'm a passionate **Frontend Web Developer** specializing in **React.js**, **Next.js**, and **TypeScript**. I love crafting interactive, high-performance web applications and continuously exploring new technologies.
 
-![readme-pic1](https://github.com/user-attachments/assets/acdede6c-4604-4520-ae98-b4095bcd4cc7)
+<img src="https://github.com/user-attachments/assets/acdede6c-4604-4520-ae98-b4095bcd4cc7" height=100px width=300px>
 
 ### 🌟 Skills & Technologies
 - **Languages**: ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
@@ -31,6 +31,7 @@ Here are some of my favorite projects that I've worked on:
 - [Twitter](https://twitter.com)
 - [Portfolio](https://your-portfolio-link)
   
-<div class="tenor-gif-embed" data-postid="17884763" data-share-method="host" data-aspect-ratio="1.73913" data-width="100%"><a href="https://tenor.com/view/stalker-campfire-bonfire-pixel-art-chernobyl-gif-17884763">Stalker Campfire GIF</a>from <a href="https://tenor.com/search/stalker-gifs">Stalker GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+![S_T_A_L_K_E_R_Pixel_Animation_Gif](https://github.com/user-attachments/assets/41898519-e7a5-49b7-9fce-872e7a0f6b33)
 
  <!-- Updated GIF link -->
