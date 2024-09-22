@@ -6,7 +6,7 @@
 ## 🚀 About Me
 I'm a passionate **Frontend Web Developer** specializing in **React.js**, **Next.js**, and **TypeScript**. I love crafting interactive, high-performance web applications and continuously exploring new technologies.
 
-<img src="https://github.com/user-attachments/assets/acdede6c-4604-4520-ae98-b4095bcd4cc7" height=300px width=300px>
+<img src="https://github.com/user-attachments/assets/acdede6c-4604-4520-ae98-b4095bcd4cc7" height=300px width=300px style="align:middle;">
 
 ### 🌟 Skills & Technologies
 - **Languages**: ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
