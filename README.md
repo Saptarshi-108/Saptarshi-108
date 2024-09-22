@@ -1,13 +1,12 @@
 # Hi there, I'm Saptarshi Mandal (SaptarshiM) 👋👋
 
-
 <img src="https://github.com/user-attachments/assets/3df92489-954d-4df9-abe9-70f18b11f2d2" height="60px" width="60px" style="vertical-align: middle;"> <!-- Adjusted logo size to align with the text -->
 
 
 ## 🚀 About Me
 I'm a passionate **Frontend Web Developer** specializing in **React.js**, **Next.js**, and **TypeScript**. I love crafting interactive, high-performance web applications and continuously exploring new technologies.
 
-<img src="https://github.com/user-attachments/assets/acdede6c-4604-4520-ae98-b4095bcd4cc7" height=100px width=300px>
+<img src="https://github.com/user-attachments/assets/acdede6c-4604-4520-ae98-b4095bcd4cc7" height=300px width=300px>
 
 ### 🌟 Skills & Technologies
 - **Languages**: ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
