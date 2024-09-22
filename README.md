@@ -1,9 +1,10 @@
-<div style="position: relative; width: 100%; height: 400px; background-image: url('https://github.com/user-attachments/assets/f6d98ab2-4722-4c15-9b84-630941525388'); background-size: cover; background-position: center;">
+<div style="position: relative; width: 100%; height: 400px; overflow: hidden;">
+  <img src="https://github.com/user-attachments/assets/5aa0f29a-81ce-4ec7-8da6-9f01151d3889" style="width: 100%; height: 400px; object-fit: cover;" alt="Background">
   <div style="position: absolute; top: 50%; left: 20px; transform: translateY(-50%);">
     <img src="https://github.com/user-attachments/assets/3df92489-954d-4df9-abe9-70f18b11f2d2" height="60px" alt="Logo">
   </div>
 </div>
-![@wallandiamin  (14)]()
+
 
 # Hi there, I'm Saptarshi Mandal (SaptarshiM) 👋👋
  <!-- Adjusted logo size to align with the text -->
