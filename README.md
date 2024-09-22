@@ -39,7 +39,9 @@ Here are some of my favorite projects that I've worked on:
 - [Portfolio](https://your-portfolio-link)
   
 
-![S_T_A_L_K_E_R_Pixel_Animation_Gif](https://github.com/user-attachments/assets/8c34ea66-36c1-4cad-ad2d-2d39910b093d)
+https://github.com/user-attachments/assets/6edeb90a-b7d6-42ea-b4be-5a1258dec2eb
+
+
 
 
  <!-- Updated GIF li![Uploading S_T_A_L_K_E_R_Pixel_Animation_Gif.gif…]()
