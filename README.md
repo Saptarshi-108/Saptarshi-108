@@ -38,8 +38,9 @@ Here are some of my favorite projects that I've worked on:
 - [Twitter](https://twitter.com)
 - [Portfolio](https://your-portfolio-link)
   
+![S_T_A_L_K_E_R_Campfire](https://github.com/user-attachments/assets/873f60ca-37ed-4bdf-9dae-e825ffd980fe)
 
-https://github.com/user-attachments/assets/6edeb90a-b7d6-42ea-b4be-5a1258dec2eb
+
 
 
 
