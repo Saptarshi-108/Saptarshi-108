@@ -1,8 +1,9 @@
-<div><img src="https://github.com/user-attachments/assets/acdede6c-4604-4520-ae98-b4095bcd4cc7" style="width: 100%; z-index: 0; height:300px">
-  <div>
-    <img src="https://github.com/user-attachments/assets/3df92489-954d-4df9-abe9-70f18b11f2d2" height="60px" style="vertical-align: left;">
+<div style="position: relative; width: 100%; height: 400px; background-image: url('https://github.com/user-attachments/assets/acdede6c-4604-4520-ae98-b4095bcd4cc7'); background-size: cover; background-position: center;">
+  <div style="position: absolute; top: 50%; left: 20px; transform: translateY(-50%);">
+    <img src="https://github.com/user-attachments/assets/3df92489-954d-4df9-abe9-70f18b11f2d2" height="60px" alt="Logo">
   </div>
 </div>
+
 # Hi there, I'm Saptarshi Mandal (SaptarshiM) 👋👋
  <!-- Adjusted logo size to align with the text -->
 
