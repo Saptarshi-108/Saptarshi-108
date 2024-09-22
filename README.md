@@ -1,6 +1,7 @@
 # Hi there, I'm Saptarshi Mandal (SAP) 👋
 
-![Profile Banner](https://user-images.githubusercontent.com/your-banner-image) <!-- Add your custom banner image -->
+![Profile Banner](https://user-images.githubusercontent.com/your-banner-image) <!-- Add your custom banner image -->![SM_logo](https://github.com/user-attachments/assets/3df92489-954d-4df9-abe9-70f18b11f2d2)
+
 
 ## 🚀 About Me
 I'm a passionate **Frontend Web Developer** specializing in **React.js**, **Next.js**, and **TypeScript**. I love crafting interactive, high-performance web applications and continuously exploring new technologies.
@@ -32,6 +33,8 @@ Here are some of my favorite projects that I've worked on:
 - [Portfolio](https://your-portfolio-link)
   
 
-![S_T_A_L_K_E_R_Pixel_Animation_Gif](https://github.com/user-attachments/assets/41898519-e7a5-49b7-9fce-872e7a0f6b33)
+![S_T_A_L_K_E_R_Pixel_Animation_Gif](https://github.com/user-attachments/assets/8c34ea66-36c1-4cad-ad2d-2d39910b093d)
 
- <!-- Updated GIF link -->
+
+ <!-- Updated GIF li![Uploading S_T_A_L_K_E_R_Pixel_Animation_Gif.gif…]()
+nk -->
