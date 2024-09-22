@@ -1,6 +1,7 @@
 # Hi there, I'm Saptarshi Mandal (SAP) 👋
 
-![Profile Banner](https://user-images.githubusercontent.com/your-banner-image) <!-- Add your custom banner image -->![SM_logo](https://github.com/user-attachments/assets/3df92489-954d-4df9-abe9-70f18b11f2d2)
+![Profile Banner](https://user-images.githubusercontent.com/your-banner-image) <!-- Add your custom banner image -->
+<img src="https://github.com/user-attachments/assets/3df92489-954d-4df9-abe9-70f18b11f2d2" height=100px width=100px align="right">
 
 
 ## 🚀 About Me
