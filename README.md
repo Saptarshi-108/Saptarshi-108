@@ -29,4 +29,4 @@ Here are some of my favorite projects that I've worked on:
 - [Twitter](https://twitter.com)
 - [Portfolio](https://your-portfolio-link)
 
-![Animation](https://your-animation-link.com) (Yet to embed animation here !)<!-- Embed your unique animations here -->
+![Computer Staying Up Late GIF](https://media.tenor.com/images/18286078/computer-staying-up-late-hifumi-yamada-computer-work-homeschool.gif) <!-- Updated GIF link -->
