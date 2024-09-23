@@ -33,7 +33,7 @@ I'm a passionate **Frontend Web Developer** specializing in **React.js**, **Next
 - **Styling**: 
   - ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
   
-- **Talents**: 🎨 Digital Art
+- **Hobbies**: 🎨 Digital Art, Sketching, Painting and Playing games.
 
 ## 🛠️ Projects & Contributions
 Here are some of my favorite projects that I've worked on:
