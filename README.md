@@ -47,7 +47,7 @@ Here are some of my favorite projects that I've worked on:
 
 ## ⚡ Fun Facts
 - ✨ I love blending design and code to create engaging user experiences.
-- 📚 Constantly learning about the latest trends in frontend development.
+- 📚 Constantly learning about the latest trends in web development.
 - 🎨 I like Sketching and Doodling in my free time, which is mostly during boring classes.
 
 ## 📫 Let's Connect
