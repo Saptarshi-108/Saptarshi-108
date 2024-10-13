@@ -46,7 +46,7 @@ Here are some of my favorite projects that I've worked on:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaptarshiM&show_icons=true&theme=radical)
 
 ### LeetCode Stats
-![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/LoneWolf_108)
+![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/LoneWolf_108/?theme=radical)
 
 <!-- Example Manual Stats -->
 | Difficulty | Solved |
@@ -66,3 +66,4 @@ Here are some of my favorite projects that I've worked on:
 - [Portfolio](https://your-portfolio-link)
 
 ![S_T_A_L_K_E_R_Campfire](https://github.com/user-attachments/assets/873f60ca-37ed-4bdf-9dae-e825ffd980fe)
+
