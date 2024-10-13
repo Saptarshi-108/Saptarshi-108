@@ -45,16 +45,6 @@ Here are some of my favorite projects that I've worked on:
 ### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaptarshiM&show_icons=true&theme=radical)
 
-### LeetCode Stats
-![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/LoneWolf_108/?theme=radical)
-
-<!-- Example Manual Stats -->
-| Difficulty | Solved |
-|------------|--------|
-| Easy       | 120    |
-| Medium     | 60     |
-| Hard       | 20     |
-
 ## ⚡ Fun Facts
 - ✨ I love blending design and code to create engaging user experiences.
 - 📚 Constantly learning about the latest trends in frontend development.
