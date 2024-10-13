@@ -6,7 +6,6 @@
 </div>
 
 # Hi there, I'm Saptarshi Mandal (SaptarshiM) 👋👋
-<!-- Adjusted logo size to align with the text -->
 
 ## 🚀 About Me
 I'm a passionate **Frontend Web Developer** specializing in **React.js**, **Next.js**, and **TypeScript**. I love crafting interactive, high-performance web applications and continuously exploring new technologies.
@@ -41,8 +40,20 @@ Here are some of my favorite projects that I've worked on:
 - [**Project Name**](#) - A brief description of what it is and the tech used.
 - [**Another Project**](#) - Highlight any special features or learning experiences.
 
-## 📈 GitHub Stats
+## 📈 GitHub & LeetCode Stats
+
+### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaptarshiM&show_icons=true&theme=radical)
+
+### LeetCode Stats
+![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/LoneWolf_108)
+
+<!-- Example Manual Stats -->
+| Difficulty | Solved |
+|------------|--------|
+| Easy       | 120    |
+| Medium     | 60     |
+| Hard       | 20     |
 
 ## ⚡ Fun Facts
 - ✨ I love blending design and code to create engaging user experiences.
@@ -55,4 +66,3 @@ Here are some of my favorite projects that I've worked on:
 - [Portfolio](https://your-portfolio-link)
 
 ![S_T_A_L_K_E_R_Campfire](https://github.com/user-attachments/assets/873f60ca-37ed-4bdf-9dae-e825ffd980fe)
-
