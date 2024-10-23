@@ -45,7 +45,7 @@ Here are some of my favorite projects that I've worked on:
 ### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaptarshiM&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saptarshi_108&layout=compact)
 
 ## ⚡ Fun Facts
 - ✨ I love blending design and code to create engaging user experiences.
