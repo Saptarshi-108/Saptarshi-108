@@ -53,9 +53,9 @@ Here are some of my favorite projects that I've worked on:
 - 🎨 I like Sketching and Doodling in my free time, which is mostly during boring classes.
 
 ## 📫 Let's Connect
-- [LinkedIn](https://www.linkedin.com)
-- [Twitter](https://twitter.com)
-- [Portfolio](https://your-portfolio-link)
+- [LinkedIn](https://www.linkedin.com)(not linked)
+- [Twitter](https://twitter.com)(not linked)
+- [Portfolio](https://your-portfolio-link)(not linked)
 
 ![S_T_A_L_K_E_R_Campfire](https://github.com/user-attachments/assets/873f60ca-37ed-4bdf-9dae-e825ffd980fe)
 
