@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=30&letterSpacing=1px&duration=3000&pause=1000&color=168EF7&vCenter=true&random=true&width=800&height=80&lines=Hi!+I+am+Saptarshi+Mandal+...%F0%9F%91%8B;An+aspiring+Fullstack+Web+Developer)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=30&letterSpacing=1px&duration=3000&pause=1000&color=168EF7&vCenter=true&random=true&width=800&height=80&lines=An+aspiring+Fullstack+Web+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=25&letterSpacing=1px&duration=3000&pause=1000&color=168EF7&vCenter=true&random=true&width=800&height=60&lines=An+aspiring+Fullstack+Web+Developer)](https://git.io/typing-svg)
 
 ## 🚀 About Me
 I'm a passionate **Frontend Web Developer** specializing in **React.js**, **Next.js**, and **TypeScript**. I love crafting interactive, high-performance web applications and continuously exploring new technologies.
