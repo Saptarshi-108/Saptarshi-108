@@ -1,11 +1,6 @@
-<div style="position: relative; width: 100%; height: 400px; overflow: hidden;">
-  <img src="https://github.com/user-attachments/assets/5aa0f29a-81ce-4ec7-8da6-9f01151d3889" style="width: 100%; height: 400px; object-fit: cover;" alt="Background">
-  <div style="position: absolute; top: 50%; left: 20px; transform: translateY(-50%);">
-    <img src="https://github.com/user-attachments/assets/3df92489-954d-4df9-abe9-70f18b11f2d2" height="60px" alt="Logo">
-  </div>
-</div>
-
 # Hi there, I'm Saptarshi Mandal (SaptarshiM) 👋👋
+
+![Typing Animation](https://path-to-your-image.png)
 
 ## 🚀 About Me
 I'm a passionate **Frontend Web Developer** specializing in **React.js**, **Next.js**, and **TypeScript**. I love crafting interactive, high-performance web applications and continuously exploring new technologies.
@@ -53,9 +48,8 @@ Here are some of my favorite projects that I've worked on:
 - 🎨 I like Sketching and Doodling in my free time, which is mostly during boring classes.
 
 ## 📫 Let's Connect
-- [LinkedIn](https://www.linkedin.com)(not linked)
-- [Twitter](https://twitter.com)(not linked)
-- [Portfolio](https://your-portfolio-link)(not linked)
+- [LinkedIn](https://www.linkedin.com)
+- [Twitter](https://twitter.com)
+- [Portfolio](https://your-portfolio-link)
 
-![S_T_A_L_K_E_R_Campfire](https://github.com/user-attachments/assets/873f60ca-37ed-4bdf-9dae-e825ffd980fe)
 
