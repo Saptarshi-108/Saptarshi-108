@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="[https://path-to-your-image.png](https://github.com/user-attachments/assets/986b0701-2399-48f0-9061-073f6a3bff89)" alt="Header Image" width="400" height="100">
+</p>
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=30&letterSpacing=1px&duration=3000&pause=1000&color=168EF7&vCenter=true&random=true&width=800&height=80&lines=Hi!+I+am+Saptarshi+Mandal+...%F0%9F%91%8B;An+aspiring+Fullstack+Web+Developer)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&letterSpacing=1px&duration=4000&pause=1000&color=126DF7&vCenter=true&random=true&width=800&height=60&lines=An+aspiring+Fullstack+Web+Developer)](https://git.io/typing-svg)
 
