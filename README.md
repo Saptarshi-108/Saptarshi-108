@@ -1,6 +1,4 @@
-# Hi there, I'm Saptarshi Mandal (SaptarshiM) 👋👋
-
-![Typing Animation](https://path-to-your-image.png)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I+am+Saptarshi+Mandal)](https://git.io/typing-svg)
 
 ## 🚀 About Me
 I'm a passionate **Frontend Web Developer** specializing in **React.js**, **Next.js**, and **TypeScript**. I love crafting interactive, high-performance web applications and continuously exploring new technologies.
