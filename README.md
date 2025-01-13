@@ -33,6 +33,10 @@ I'm a passionate **Frontend Web Developer** specializing in **React.js**, **Next
   
 - **Hobbies**: 🎨 Digital Art, Sketching, Painting and Playing games.
 
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Saptarshi-108&theme=dracula&no-frame=false&no-bg=true&margin-w=15&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ## 🛠️ Projects & Contributions
 Here are some of my favorite projects that I've worked on:
 
