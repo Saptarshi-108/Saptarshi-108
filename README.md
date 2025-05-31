@@ -38,7 +38,7 @@ I'm a passionate **FullStack Web Developer** specializing in **React.js**, **Fla
 ## 🛠️ Projects & Contributions
 Here are some of my favorite projects that I've worked on:
 
-- [**Task Master**](https://task-master-virid-five.vercel.app/) - A brief description of what it is and the tech used.
+- [**Task Master**](https://task-master-virid-five.vercel.app/) - A productivity website with music and vibes.🎶🎶
 - [**Another Project**](#) - Highlight any special features or learning experiences.
 
 ## 📈 GitHub & LeetCode Stats
