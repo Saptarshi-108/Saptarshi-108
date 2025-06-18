@@ -59,8 +59,8 @@ Here are some of my favorite projects that I've worked on:
 - 🎨 I like Sketching and Doodling in my free time, which is mostly during boring classes.
 
 ## 📫 Let's Connect
-- [LinkedIn](https://www.linkedin.com)
-- [Twitter](https://twitter.com)
-- [Portfolio](https://your-portfolio-link)
+- [LinkedIn]((https://www.linkedin.com/in/saptarshi-mandal-90a29a28a))
+- [Leetcode](https://leetcode.com/u/LoneWolf_108/)
+- [Portfolio]((https://portfolio-six-sable-82.vercel.app/))
 
 
