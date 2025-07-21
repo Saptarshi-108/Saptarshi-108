@@ -44,6 +44,7 @@ Here are some of my favorite projects that I've worked on:
 
 - [**Task Master**](https://task-master-virid-five.vercel.app/) - A productivity website with music and vibes.🎶🎶
 - [**TECHTICAL**](https://techtical.vercel.app/) - Military blog website.
+- [**Youtube Playlist Duration**](https://github.com/Saptarshi-108/youtube_duration_feature) - Extension to show the total duration of a playlist. ( tip - click full playlist to see)
 
 
 ## 📈 GitHub & LeetCode Stats
