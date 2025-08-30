@@ -64,5 +64,6 @@ Here are some of my favorite projects that I've worked on:
 - [LinkedIn](https://www.linkedin.com/in/saptarshi-mandal-90a29a28a)
 - [Leetcode](https://leetcode.com/u/LoneWolf_108/)
 - [Portfolio](https://saptarshimandal1618.framer.ai/)
+- [Art Website](https://myarthouse.netlify.app/)
 
 
