@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Gif" width="1000" height="500">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDAxdHN6aGZlcDFtYnNiazhpMXRhMDkydnNoYTJrOGswZXAzOGFnbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C3gZCY92Cwyxq/giphy.gif" alt="Sunset Gif" width="1000" height="500">
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Saptarshi-108&style=for-the-badge&color=blueviolet)
@@ -73,12 +73,9 @@ I’m a **FullStack Web Developer** with expertise in **React.js**, **Flask**, a
 ![LeetCode Stats](https://leetcard.jacoblin.cool/LoneWolf_108?theme=dark&font=Roboto&ext=heatmap)  
 
 ---
-
-## ⚡ Fun Zone  
-- 💡 Code works → Ship it.  
-- 🐛 Code breaks → Call it a feature.  
-- ☕ Coffee in, code out.  
-- 🎨 Sketching during boring classes = productive multitasking.  
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG0xYnNlcnYzcm1vMnRveHg0OTBxZGkwNGprb2s1b2x0dGY5M2o5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AebNPktTHrdYc/giphy.gif" width="400">
+</p>
 
 ---
 
@@ -89,5 +86,6 @@ I’m a **FullStack Web Developer** with expertise in **React.js**, **Flask**, a
 - [Art Website](https://myarthouse.netlify.app/)  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="400">
+  <img src="https://media.tenor.com/3Z5D.gif" width="400">
+  <img src="https://media.tenor.com/t8iWl5aWN81.gif" width="400">
 </p>
