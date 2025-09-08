@@ -102,7 +102,7 @@ I’m a **FullStack Web Developer** with expertise in **React.js**, **Flask**, a
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 30px;">
 
   <div style="font-size: 32px; font-weight: bold; font-style: italic; text-align: left; line-height: 1.5;">
-    Sprinting with a full cup is an extreme sport
+    **Sprinting with a full cup is an extreme sport**
   </div>
   <br>
   <div>
