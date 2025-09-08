@@ -2,18 +2,18 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Gif" width="1000" height="500">
 </p>
 
-![Views](https://komarev.com/ghpvc/?username=Saptarshi-108)
+![Profile Views](https://komarev.com/ghpvc/?username=Saptarshi-108&style=for-the-badge&color=blueviolet)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=30&letterSpacing=1px&duration=3000&pause=1000&color=168EF7&vCenter=true&random=true&width=800&height=80&lines=Hi!+I+am+Saptarshi+Mandal+...%F0%9F%91%8B;An+aspiring+Fullstack+Web+Developer;Professional+Bug+Collector+%F0%9F%90%9B;Ctrl+C+Ctrl+V+Specialist+%F0%9F%92%BB)](https://git.io/typing-svg)
-
----
-
-## About Me  
-FullStack Web Developer with expertise in **React.js**, **Flask**, and **Node.js**. I enjoy crafting interactive, high-performance applications and experimenting with new tech—sometimes it works, sometimes it breaks, but that's half the fun.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=30&letterSpacing=1px&duration=3000&pause=1000&color=F76C6C&vCenter=true&random=true&width=900&height=80&lines=Hi!+I'm+Saptarshi+Mandal+%F0%9F%91%8B;Aspiring+Fullstack+Web+Developer;Professional+Bug+Collector+%F0%9F%90%9B;Ctrl%2BC%2BCtrl%2BV+Engineer+%F0%9F%92%BB;Coffee+%26+Code+Addict+%E2%98%95)](https://git.io/typing-svg)
 
 ---
 
-### 🌟 Skills & Technologies  
+## 🚀 About Me  
+I’m a **FullStack Web Developer** with expertise in **React.js**, **Flask**, and **Node.js**. I love building fast, interactive, and aesthetic web apps. Most of my time is spent either coding, debugging, or figuring out why it worked yesterday but not today.
+
+---
+
+### 🛠 Skills & Technologies  
 
 - **Languages**  
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)  
@@ -26,13 +26,19 @@ FullStack Web Developer with expertise in **React.js**, **Flask**, and **Node.js
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat)  
 
 - **Machine Learning**  
-   TensorFlow |  OpenCV |  MediaPipe |  Computer Vision  
+   TensorFlow | OpenCV | MediaPipe | Computer Vision  
 
 - **Styling**  
   ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)  
 
 - **Hobbies**  
-   Digital Art |  Sketching |  Gaming |  Procrastination  
+   Digital Art 🎨 | Sketching ✏️ | Gaming 🎮 | Procrastination 😴  
+
+---
+
+<p align="center">
+  <img src="https://github.com/gowthamreddysomala/gowthamreddysomala/blob/output/github-snake-dark.svg" alt="Snake Animation"/>
+</p>
 
 ---
 
@@ -41,17 +47,17 @@ FullStack Web Developer with expertise in **React.js**, **Flask**, and **Node.js
 
 ---
 
-## 🛠️ Projects & Contributions  
+## 🛠️ Featured Projects  
 
-#### Portfolio Website : [My Portfolio](https://saptarshimandal1618.framer.ai/)  
+#### 🌐 Portfolio Website → [My Portfolio](https://saptarshimandal1618.framer.ai/)  
 
-- [**Task Master**](https://task-master-virid-five.vercel.app/) → Productivity app with music and vibes 🎶  
+- [**Task Master**](https://task-master-virid-five.vercel.app/) → Productivity app with lo-fi vibes 🎶  
 - [**TECHTICAL**](https://techtical.vercel.app/) → Military blog platform  
-- [**Youtube Playlist Duration**](https://github.com/Saptarshi-108/youtube_duration_feature) → Browser extension showing total playlist duration (yes, finally some answers YouTube didn’t give)  
+- [**YouTube Playlist Duration**](https://github.com/Saptarshi-108/youtube_duration_feature) → Extension to display playlist duration (because YouTube won’t)  
 
 ---
 
-## 📈 GitHub & LeetCode Stats  
+## 📊 GitHub & LeetCode Stats  
 
 ### GitHub Stats  
 ![GitHub Streak](https://streak-stats.demolab.com?user=Saptarshi-108&theme=radical&hide_border=false)  
@@ -62,11 +68,11 @@ FullStack Web Developer with expertise in **React.js**, **Flask**, and **Node.js
 
 ---
 
-## What I do everyday...  
-- ✨ Love blending design + code to make users go "woah"  
-- 📚 Forever learning, forever debugging  
-- 🎨 Sketching during boring classes counts as *multi-tasking*  
-- 🐛 My code works… until it doesn’t  
+## ⚡ Fun Zone  
+- 💡 Code works → Ship it.  
+- 🐛 Code breaks → Call it a feature.  
+- ☕ Coffee in, code out.  
+- 🎨 Sketching during boring classes = productive multitasking.  
 
 ---
 
