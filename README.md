@@ -87,17 +87,33 @@ I’m a **FullStack Web Developer** with expertise in **React.js**, **Flask**, a
 
 ---
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG0xYnNlcnYzcm1vMnRveHg0OTBxZGkwNGprb2s1b2x0dGY5M2o5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AebNPktTHrdYc/giphy.gif" width="400">
-</p>
-
----
-<p align="center">
   <img src="https://media.tenor.com/3Z5D.gif" width="400" height="400">
   <img src="https://media.tenor.com/t8iWl5aWN81.gif" width="400" height="400">
 </p>
+
 ## 📫 Let's Connect  
 - [LinkedIn](https://www.linkedin.com/in/saptarshi-mandal-90a29a28a)  
 - [Leetcode](https://leetcode.com/u/LoneWolf_108/)  
 - [Portfolio](https://saptarshimandal1618.framer.ai/)  
 - [Art Website](https://myarthouse.netlify.app/)  
+
+---
+
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 30px;">
+
+  <div style="font-size: 32px; font-weight: bold; font-style: italic; text-align: left; line-height: 1.5;">
+    Sprinting with a full cup is an extreme sport
+  </div>
+  
+  <div>
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXY3cW03b3BkdW14ZXd0amF1N2JqdmMydTF5YXo0Mm9ncmU3NHNqMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWTBGOR6sLLWQvZZ21/giphy.gif" width="400" height="400">
+  </div>
+
+</div>
+
+
+
+
+
+
 
