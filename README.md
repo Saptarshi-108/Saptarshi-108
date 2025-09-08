@@ -99,17 +99,19 @@ I’m a **FullStack Web Developer** with expertise in **React.js**, **Flask**, a
 
 ---
 
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 30px;">
+---
 
-  <div style="font-size: 32px; font-weight: bold; font-style: italic; text-align: left; line-height: 1.5;">
-    **Sprinting with a full cup is an extreme sport**
-  </div>
-  <br>
-  <div>
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXY3cW03b3BkdW14ZXd0amF1N2JqdmMydTF5YXo0Mm9ncmU3NHNqMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWTBGOR6sLLWQvZZ21/giphy.gif" width="400" height="400">
-  </div>
+<table align="center" width="100%">
+  <tr>
+    <td width="60%" align="left" style="font-size: 28px; font-weight: bold; font-style: italic; vertical-align: middle;">
+      Sprinting with a full cup is an extreme sport
+    </td>
+    <td width="40%" align="center">
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXY3cW03b3BkdW14ZXd0amF1N2JqdmMydTF5YXo0Mm9ncmU3NHNqMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWTBGOR6sLLWQvZZ21/giphy.gif" width="400" height="400">
+    </td>
+  </tr>
+</table>
 
-</div>
 
 
 
