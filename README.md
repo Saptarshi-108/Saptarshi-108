@@ -49,7 +49,7 @@ I’m a **FullStack Web Developer** with expertise in **React.js**, **Flask**, a
 ---
 
 ## 🏆 GitHub Trophies  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Saptarshi-108&theme=radical&no-frame=false&no-bg=true&margin-w=15&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Saptarshi-108&theme=nord&no-frame=false&no-bg=true&margin-w=20&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -57,7 +57,8 @@ I’m a **FullStack Web Developer** with expertise in **React.js**, **Flask**, a
 
 - [**Task Master**](https://task-master-virid-five.vercel.app/) → Productivity app with lo-fi vibes 🎶  
 - [**TECHTICAL**](https://techtical.vercel.app/) → Military blog platform  
-- [**YouTube Playlist Duration**](https://github.com/Saptarshi-108/youtube_duration_feature) → Extension to display playlist duration (because YouTube won’t)  
+- [**YouTube Playlist Duration**](https://github.com/Saptarshi-108/youtube_duration_feature) → Extension to display playlist duration (because YouTube won’t)
+- [**Art Portfolio Website**](https://myarthouse.netlify.app/) → Website for keeping all recent arts. Contains all my favourite painting, sketches, photographs and digital art.
 
 ---
 
