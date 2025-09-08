@@ -104,7 +104,7 @@ I’m a **FullStack Web Developer** with expertise in **React.js**, **Flask**, a
   <div style="font-size: 32px; font-weight: bold; font-style: italic; text-align: left; line-height: 1.5;">
     Sprinting with a full cup is an extreme sport
   </div>
-  
+  <br>
   <div>
     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXY3cW03b3BkdW14ZXd0amF1N2JqdmMydTF5YXo0Mm9ncmU3NHNqMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWTBGOR6sLLWQvZZ21/giphy.gif" width="400" height="400">
   </div>
