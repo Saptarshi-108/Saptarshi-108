@@ -38,7 +38,7 @@ I’m a **FullStack Web Developer** with expertise in **React.js**, **Flask**, a
   <img width="15"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"/>
   <img width="15"/>
-  <img src="https://img.icons8.com/?size=100&id=undefined&format=png" height="40" alt="flask logo"/>
+  <img src="https://img.icons8.com/?id=hCWb1IvpcBZ0&format=png" height="40" alt="flask logo"/>
   <br><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"/>
   <img width="15"/>
