@@ -96,11 +96,8 @@ I’m a **FullStack Web Developer** with expertise in **React.js**, **Flask**, a
 - [Leetcode](https://leetcode.com/u/LoneWolf_108/)  
 - [Portfolio](https://saptarshimandal1618.framer.ai/)  
 - [Art Website](https://myarthouse.netlify.app/)  
-
----
-
----
-
+<br>
+<br>
 <table align="center" width="100%">
   <tr>
     <td width="60%" align="left" style="font-size: 28px; font-weight: bold; font-style: italic; vertical-align: middle;">
