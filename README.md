@@ -9,12 +9,12 @@
 ---
 
 ## 🌐 Featured Links  
-- 🖥️ [Portfolio Website](https://saptarshimandal1618.framer.ai/)  
-- 🎨 [Art Portfolio](https://myarthouse.netlify.app/)  
+-  [Portfolio Website](https://saptarshimandal1618.framer.ai/)  
+-  [Art Portfolio](https://myarthouse.netlify.app/)  
 
 ---
 
-## 🚀 About Me  
+##  About Me  
 I’m a **FullStack Web Developer** with expertise in **React.js**, **Flask**, and **Node.js**. I love building fast, interactive, and aesthetic web apps. Most of my time is spent either coding, debugging, or figuring out why it worked yesterday but not today.
 
 ---
@@ -44,11 +44,11 @@ I’m a **FullStack Web Developer** with expertise in **React.js**, **Flask**, a
   <img width="15"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"/>
   <br><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="tailwindcss logo"/>
+  <img src="https://img.icons8.com/?size=100&id=undefined&format=png&color=000000" height="40" alt="tailwindcss logo"/>
 </div>
 
 - **Hobbies**  
-   Digital Art 🎨 | Sketching ✏️ | Gaming 🎮 | Procrastination 😴  
+   Digital Art 🎨 | Sketching ✏️ | Gaming 🎮 | Sleeping 😴  
 
 ---
 
