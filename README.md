@@ -91,14 +91,13 @@ I’m a **FullStack Web Developer** with expertise in **React.js**, **Flask**, a
 </p>
 
 ---
-
+<p align="center">
+  <img src="https://media.tenor.com/3Z5D.gif" width="400" height="400">
+  <img src="https://media.tenor.com/t8iWl5aWN81.gif" width="400" height="400">
+</p>
 ## 📫 Let's Connect  
 - [LinkedIn](https://www.linkedin.com/in/saptarshi-mandal-90a29a28a)  
 - [Leetcode](https://leetcode.com/u/LoneWolf_108/)  
 - [Portfolio](https://saptarshimandal1618.framer.ai/)  
 - [Art Website](https://myarthouse.netlify.app/)  
 
-<p align="center">
-  <img src="https://media.tenor.com/3Z5D.gif" width="400" height="400">
-  <img src="https://media.tenor.com/t8iWl5aWN81.gif" width="400" height="400">
-</p>
