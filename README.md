@@ -4,7 +4,13 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Saptarshi-108&style=for-the-badge&color=blueviolet)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=30&letterSpacing=1px&duration=3000&pause=1000&color=F76C6C&vCenter=true&random=true&width=900&height=80&lines=Hi!+I'm+Saptarshi+Mandal+%F0%9F%91%8B;Aspiring+Fullstack+Web+Developer;Professional+Bug+Collector+%F0%9F%90%9B;Ctrl%2BC%2BCtrl%2BV+Engineer+%F0%9F%92%BB;Coffee+%26+Code+Addict+%E2%98%95)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=30&letterSpacing=1px&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=1000&height=80&lines=Hi!+I+am+Saptarshi+Mandal;A+Fullstack+Web+Developer;I+am+Bob+the+Builder;But+for+Websites)](https://git.io/typing-svg)
+
+---
+
+## 🌐 Featured Links  
+- 🖥️ [Portfolio Website](https://saptarshimandal1618.framer.ai/)  
+- 🎨 [Art Portfolio](https://myarthouse.netlify.app/)  
 
 ---
 
@@ -49,8 +55,6 @@ I’m a **FullStack Web Developer** with expertise in **React.js**, **Flask**, a
 
 ## 🛠️ Featured Projects  
 
-#### 🌐 Portfolio Website → [My Portfolio](https://saptarshimandal1618.framer.ai/)  
-
 - [**Task Master**](https://task-master-virid-five.vercel.app/) → Productivity app with lo-fi vibes 🎶  
 - [**TECHTICAL**](https://techtical.vercel.app/) → Military blog platform  
 - [**YouTube Playlist Duration**](https://github.com/Saptarshi-108/youtube_duration_feature) → Extension to display playlist duration (because YouTube won’t)  
@@ -60,8 +64,9 @@ I’m a **FullStack Web Developer** with expertise in **React.js**, **Flask**, a
 ## 📊 GitHub & LeetCode Stats  
 
 ### GitHub Stats  
-![GitHub Streak](https://streak-stats.demolab.com?user=Saptarshi-108&theme=radical&hide_border=false)  
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Saptarshi-108&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=Saptarshi-108&theme=solarized-light&hide_border=false)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saptarshi-108&show_icons=true&theme=solarized-light)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saptarshi-108&layout=compact&theme=solarized-light)  
 
 ### LeetCode Stats  
 ![LeetCode Stats](https://leetcard.jacoblin.cool/LoneWolf_108?theme=dark&font=Roboto&ext=heatmap)  
