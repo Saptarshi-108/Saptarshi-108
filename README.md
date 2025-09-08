@@ -96,6 +96,6 @@ I’m a **FullStack Web Developer** with expertise in **React.js**, **Flask**, a
 - [Art Website](https://myarthouse.netlify.app/)  
 
 <p align="center">
-  <img src="https://media.tenor.com/3Z5D.gif" width="400">
-  <img src="https://media.tenor.com/t8iWl5aWN81.gif" width="400">
+  <img src="https://media.tenor.com/3Z5D.gif" width="400" height="400">
+  <img src="https://media.tenor.com/t8iWl5aWN81.gif" width="400" height="400">
 </p>
