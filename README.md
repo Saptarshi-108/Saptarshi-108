@@ -44,7 +44,10 @@ I’m a **FullStack Web Developer** with expertise in **React.js**, **Flask**, a
   <img width="15"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"/>
   <br><br>
-  <img src="https://img.icons8.com/?size=100&id=UpSCHTwpywad&format=png&color=ffff" height="40" alt="tailwindcss logo"/>
+  <img src="https://img.icons8.com/?id=CIAZz2CYc6Kc&format=png" height="40" alt="tailwindcss logo"/>
+   <img width="15"/>
+  <img src="https://img.icons8.com/?id=gFw7X5Tbl3ss&format=png" height="40" alt="materialui logo"/>
+   <img width="15"/>
 </div>
 
 - **Hobbies**  
