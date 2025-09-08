@@ -38,13 +38,13 @@ I’m a **FullStack Web Developer** with expertise in **React.js**, **Flask**, a
   <img width="15"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"/>
   <img width="15"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"/>
+  <img src="https://img.icons8.com/?size=100&id=undefined&format=png" height="40" alt="flask logo"/>
   <br><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"/>
   <img width="15"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"/>
   <br><br>
-  <img src="https://img.icons8.com/?size=100&id=UpSCHTwpywad&format=png" height="40" alt="tailwindcss logo"/>
+  <img src="https://img.icons8.com/?size=100&id=UpSCHTwpywad&format=png&color=ffff" height="40" alt="tailwindcss logo"/>
 </div>
 
 - **Hobbies**  
