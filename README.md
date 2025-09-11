@@ -98,16 +98,14 @@ I’m a **FullStack Web Developer** with expertise in **React.js**, **Flask**, a
 - [Art Website](https://myarthouse.netlify.app/)  
 <br>
 <br>
-<table align="center" width="100%">
-  <tr>
-    <td width="60%" align="left" style="font-size: 28px; font-weight: bold; font-style: italic; vertical-align: middle;">
-      Sprinting with a full cup is an extreme sport
-    </td>
-    <td width="40%" align="center">
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXY3cW03b3BkdW14ZXd0amF1N2JqdmMydTF5YXo0Mm9ncmU3NHNqMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWTBGOR6sLLWQvZZ21/giphy.gif" width="400" height="400">
-    </td>
-  </tr>
-</table>
+<p align="center">
+<h1>Sprinting with a full cup is an extreme sport</h1>
+</p>
+---
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXY3cW03b3BkdW14ZXd0amF1N2JqdmMydTF5YXo0Mm9ncmU3NHNqMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWTBGOR6sLLWQvZZ21/giphy.gif" width="400" height="400">
+</p>
+
 
 
 
