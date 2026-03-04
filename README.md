@@ -17,7 +17,7 @@
 ---
 
 ##  About Me  
-I’m a **FullStack Web Developer** with expertise in **React.js**, **Flask**, and **Node.js**. I love building fast, interactive, and aesthetic web apps. Most of my time is spent either coding, debugging, or figuring out why it worked yesterday but not today.
+I’m a **FullStack Web Developer** with expertise in **React.js** and **Node.js**. I love building fast, interactive, and aesthetic web apps. Most of my time is spent either coding, debugging, or figuring out why it worked yesterday but not today.
 
 ---
 
@@ -25,8 +25,6 @@ I’m a **FullStack Web Developer** with expertise in **React.js**, **Flask**, a
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"/>
-  <img width="15"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"/>
   <img width="15"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"/>
   <img width="15"/>
@@ -40,15 +38,12 @@ I’m a **FullStack Web Developer** with expertise in **React.js**, **Flask**, a
   <img width="15"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"/>
   <img width="15"/>
-  <img src="https://img.icons8.com/?id=hCWb1IvpcBZ0&format=png" height="40" alt="flask logo"/>
   <br><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"/>
   <img width="15"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"/>
   <br><br>
   <img src="https://img.icons8.com/?id=CIAZz2CYc6Kc&format=png" height="40" alt="tailwindcss logo"/>
-   <img width="15"/>
-  <img src="https://img.icons8.com/?id=gFw7X5Tbl3ss&format=png" height="40" alt="materialui logo"/>
    <img width="15"/>
 </div>
 
