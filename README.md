@@ -2,6 +2,8 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTVuMTcxdzRwbjhmaW40eGR0djBsNHplaXIxZTI2aHM0dnpjZTh0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BN8eRDpjhzFjt8S0FW/giphy.gif" alt="Sunset Gif" width="1000" height="500">
 </p>
 
+## An absolutely unrelated gif from Knight of the seven kingdoms 
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Saptarshi-108&style=for-the-badge&color=blueviolet)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=30&letterSpacing=1px&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=1000&height=80&lines=Hi!+I+am+Saptarshi+Mandal;A+Fullstack+Web+Developer;I+am+Bob+the+Builder;But+for+Websites)](https://git.io/typing-svg)
